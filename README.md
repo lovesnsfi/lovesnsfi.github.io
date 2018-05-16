@@ -6,3 +6,6 @@
 ### 源代码地址
 [糗事百科源代码](https://github.com/lovesnsfi/qiushibaike)
 https://github.com/lovesnsfi/qiushibaike
+
+### 预览地址
+[项目预览地址](https://lovesnsfi.github.io) https://lovesnsfi.github.io
